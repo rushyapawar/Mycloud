@@ -1,2 +1,0 @@
-# Mycloud
-Bootstrap Ec2
